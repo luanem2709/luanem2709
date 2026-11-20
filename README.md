@@ -1,56 +1,46 @@
 <div align="center">
-  
-# Hi there! 👋 I'm Nguyễn Thành Luân
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0066FF&center=true&vCenter=true&width=600&lines=Discord+Bot+Developer;Community+Manager;Content+Creator;Tech+Enthusiast)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066FF,100:00D4FF&height=200&section=header&text=Nguyễn%20Thành%20Luân&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Discord%20Bot%20Developer%20%C2%B7%20Community%20Manager&descSize=18&descAlignY=58" alt="Header" />
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-0066FF?style=for-the-badge)](https://luanem2709.github.io/portfolio-thanhluan/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1200&color=0066FF&center=true&vCenter=true&width=600&lines=Building+automation+for+Discord+communities;Node.js+%7C+Discord.js;Founder+of+Ma+%C4%90%E1%BA%A1o+Community+(3000%2B+members);Based+in+Ho+Chi+Minh+City%2C+Vietnam)](https://git.io/typing-svg)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0066FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://luanem2709.github.io/portfolio-thanhluan/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nguyenthanhluan.270924@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xiata-sano-521143391/)
+[![Discord](https://img.shields.io/badge/Ma_Đạo_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/NUh6Mf22)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/LuanEm2709)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@LuanEm2709)
-[![Discord](https://img.shields.io/badge/Ma_Đạo_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/NUh6Mf22)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nguyenthanhluan.270924@gmail.com)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About
 
-I'm a **Discord Bot Developer** and **Community Manager** based in Ho Chi Minh City, Vietnam. I specialize in building automation tools for Discord communities and creating engaging digital environments. Currently, I'm the Founder of Ma Đạo Community (3000+ members) and creating tech content on TikTok.
+I build automation tools for Discord communities and manage online spaces at scale. I'm the founder of **Ma Đạo Community** (3,000+ members) and I create tech content on TikTok.
 
-- 🌱 Focusing on advanced Discord.js patterns and Community Automation.
-- 🔭 Working on enhancing bot infrastructure for large-scale servers.
-- 💬 Open to discussing Bot Development, Community Growth, and Discord API.
-
----
-
-## 🛠️ Technical Skills
-
-**Bot Development & Backend**
-
-![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Web & Tools**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+| | |
+|---|---|
+| 🔭 **Currently** | Improving bot infrastructure for large-scale servers |
+| 🌱 **Learning** | Advanced Discord.js patterns, community automation |
+| 💬 **Ask me about** | Discord bot development, Discord API, community growth |
+| 📍 **Location** | Ho Chi Minh City, Vietnam |
 
 ---
 
-## 📊 GitHub Statistics
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=luanem2709&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0066FF&icon_color=00D4FF&text_color=E6F1FF&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=luanem2709&theme=tokyonight&hide_border=true&background=0D1117&ring=0066FF&fire=00D4FF&currStreakLabel=E6F1FF" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanem2709&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0066FF&text_color=E6F1FF&langs_count=6" />
+<img src="https://skillicons.dev/icons?i=nodejs,js,html,css,git,vscode,discord&theme=dark" alt="Tech stack" />
 
 </div>
+
+| Area | Technologies |
+|---|---|
+| **Bots & Backend** | Node.js, Discord.js, JavaScript |
+| **Web** | HTML5, CSS3, Vanilla JS |
+| **Tools** | Git, VS Code |
 
 ---
 
@@ -61,23 +51,31 @@ I'm a **Discord Bot Developer** and **Community Manager** based in Ho Chi Minh C
 <td width="50%" valign="top">
 
 ### 🤖 Ma Đạo Community Bot
-Custom automation tool for large-scale Discord community management.
-- **Key Features:** Auto-moderation, member analytics, role management, welcome system.
-- **Tech Stack:** Node.js, Discord.js.
-- **Scale:** Serving 3000+ users.
+Custom automation for large-scale Discord community management.
 
-![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
+- Auto-moderation
+- Member analytics
+- Role management
+- Welcome system
+
+**Stack:** Node.js · Discord.js
+**Scale:** 3,000+ users
+**Status:** ![Active](https://img.shields.io/badge/Active-success?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🎨 Personal Portfolio
-A showcase website featuring my projects and community work.
-- **Key Features:** Cosmic theme animations, music player, contact integration.
-- **Tech Stack:** Vanilla JS, CSS3, HTML5.
+Showcase site for my projects and community work.
 
-[![View Demo](https://img.shields.io/badge/View_Demo-0066FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://luanem2709.github.io/portfolio-thanhluan/)
-[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luanem2709/portfolio-thanhluan)
+- Cosmic-theme animations
+- Music player
+- Contact integration
+
+**Stack:** HTML5 · CSS3 · Vanilla JS
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-0066FF?style=flat-square&logo=google-chrome&logoColor=white)](https://luanem2709.github.io/portfolio-thanhluan/)
+[![Source](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/luanem2709/portfolio-thanhluan)
 
 </td>
 </tr>
@@ -85,16 +83,26 @@ A showcase website featuring my projects and community work.
 
 ---
 
-## 📫 Connect
+## 📊 GitHub Stats
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nguyenthanhluan.270924@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xiata-sano-521143391/)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=luanem2709&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0066FF&icon_color=00D4FF&text_color=E6F1FF&count_private=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanem2709&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0066FF&text_color=E6F1FF&langs_count=6" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com/?user=luanem2709&theme=tokyonight&hide_border=true&background=0D1117&ring=0066FF&fire=00D4FF&currStreakLabel=E6F1FF" alt="GitHub streak" />
 
 </div>
 
-
 ---
 
-> Profile chinh: [github.com/luanem2709](https://github.com/luanem2709) · Portfolio: [luanem2709.github.io/portfolio-thanhluan](https://luanem2709.github.io/portfolio-thanhluan/)
+## 📫 Let's Connect
+
+Open to collaboration on Discord bots, community tooling, and automation projects.
+Reach me at **[nguyenthanhluan.270924@gmail.com](mailto:nguyenthanhluan.270924@gmail.com)** or via the links above.
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066FF,100:00D4FF&height=100&section=footer" alt="Footer" />
+
+</div>
